@@ -1,0 +1,23 @@
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+}
+
+td {
+	vertical-align: middle;
+	text-align: center;
+}
+
+div.container {
+	position: relative;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+}
